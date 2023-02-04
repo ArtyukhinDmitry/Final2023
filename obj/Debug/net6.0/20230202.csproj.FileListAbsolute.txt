@@ -1,0 +1,15 @@
+E:\Git-prodject\20230202\bin\Debug\net6.0\20230202.exe
+E:\Git-prodject\20230202\bin\Debug\net6.0\20230202.deps.json
+E:\Git-prodject\20230202\bin\Debug\net6.0\20230202.runtimeconfig.json
+E:\Git-prodject\20230202\bin\Debug\net6.0\20230202.dll
+E:\Git-prodject\20230202\bin\Debug\net6.0\20230202.pdb
+E:\Git-prodject\20230202\obj\Debug\net6.0\20230202.csproj.AssemblyReference.cache
+E:\Git-prodject\20230202\obj\Debug\net6.0\20230202.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git-prodject\20230202\obj\Debug\net6.0\20230202.AssemblyInfoInputs.cache
+E:\Git-prodject\20230202\obj\Debug\net6.0\20230202.AssemblyInfo.cs
+E:\Git-prodject\20230202\obj\Debug\net6.0\20230202.csproj.CoreCompileInputs.cache
+E:\Git-prodject\20230202\obj\Debug\net6.0\20230202.dll
+E:\Git-prodject\20230202\obj\Debug\net6.0\refint\20230202.dll
+E:\Git-prodject\20230202\obj\Debug\net6.0\20230202.pdb
+E:\Git-prodject\20230202\obj\Debug\net6.0\20230202.genruntimeconfig.cache
+E:\Git-prodject\20230202\obj\Debug\net6.0\ref\20230202.dll
